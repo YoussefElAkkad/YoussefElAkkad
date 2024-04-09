@@ -1,8 +1,5 @@
 <!---
-- 👋 Hi, I’m @YoussefElAkkad
-- 👀 I’m interested in Embedded Systems, Computer Vision, ROS and Electric drives development
-- 🌱 I’m currently learning Reinforcement learning, Embedded systems, Computer vision, Machine learning and mobile development
-- 💞️ I’m looking to collaborate on embedded systems projects
+
 - 📫 you can reach me on:
 -  gmail: eng.yousseftamer2001@gmail.com 
 -  linkedin: https://www.linkedin.com/in/youssef-elakkad-12aa45199/
@@ -24,16 +21,18 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mechatronics-Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 🏢 I'm a Mechatronics Engineer and coding instructor at ischool
+- 👨‍💻 Former Software research and develpoment Engineer at Hochschule Schmalkalden
+- 🤓 I am a ranking student among my class at The German University in Cairo 
+- 👨‍💻 As a Mechatronics student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Embedded Systems, Computer Vision, and Electric Drives and tutoring.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+ 
 
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/youssef-elakkad-12aa45199/)" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 <a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
