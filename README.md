@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoussefElAkkad
-- 👀 I’m interested in embedded systems, computer vision and Electric drives development
+- 👀 I’m interested in Embedded Systems, Computer Vision, ROS and Electric drives development
 - 🌱 I’m currently learning Reinforcement learning, Embedded systems, Computer vision, Machine learning and mobile development
 - 💞️ I’m looking to collaborate on embedded systems projects
 - 📫 you can reach me on:
