@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
 - 👨‍💻 As a Mechatronics student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Embedded Systems, Computer Vision,Autonomous vehicles and Electric Drives and tutoring.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 😌 When I feel stressed, cycling and table tennis are my go-to activities for relief!
  
 
 
