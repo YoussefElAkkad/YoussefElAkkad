@@ -27,12 +27,13 @@ You can click the Preview link to take a look at your changes.
 </p> 
 
 - 🏢 I'm a Mechatronics Engineer 
-- 👨‍💻 Currently working as a coding instructor at ischool
+- 👨‍💻 Currently a Master Candidate at Centrale Nantes in the Field of Electrical Engineering and Renewable Energy.
+- 👨‍💻 Former Controls Engineer at Advansys ESC and Dematic External Employee. 
 - 👨‍💻 Former Software research and develpoment Engineer at Hochschule Schmalkalden, Thuringia, Germany
 - 👨‍💻 Former R&D Control Engineer at Ezz Medical Company
-- 🤓 I am a ranking student among my class at The German University in Cairo 
-- 👨‍💻 As a Mechatronics student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Embedded Systems, Computer Vision,Autonomous vehicles and Electric Drives and tutoring.
+- 🤓 I am a ranking student among my class at The German University in Cairo graduating with an excellent degree with highest honors.
+- 👨‍💻 As a Mechatronics Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience in Electrical Engineering, Embedded Systems, Computer Vision, Autonomous vehicles and Electric Drives and tutoring.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 😌 When I feel stressed, cycling and table tennis are my go-to activities for relief!
  
