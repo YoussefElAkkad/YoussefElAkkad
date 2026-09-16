@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </p> 
 
 - 🏢 I'm a Mechatronics Engineer 
-- 👨‍💻 Currently a Master Candidate at Centrale Nantes in the Field of Electrical Engineering and Renewable Energy.
+- 👨‍💻 Master Candidate at Centrale Nantes in the Field of Electrical Engineering and Renewable Energy with a full scholarship co funded from the European Union.
 - 👨‍💻 Former Controls Engineer at Advansys ESC and Dematic External Employee. 
 - 👨‍💻 Former Software research and develpoment Engineer at Hochschule Schmalkalden, Thuringia, Germany
 - 👨‍💻 Former R&D Control Engineer at Ezz Medical Company
